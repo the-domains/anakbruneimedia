@@ -1,0 +1,28 @@
+name: anakbruneimedia
+favicon: null
+layout_spectrum: 0.8371758447028697
+typography_spectrum: 0.44090797286480665
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.7061775757465512
+  lightness: 0.488248985260725
+  saturation: 0.07986461673863232
+  rhythmicContrast: 0.09130251896567643
+purpose: []
