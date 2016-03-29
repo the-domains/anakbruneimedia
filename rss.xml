@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[anakbruneimedia]]></title>
+        <description><![CDATA[anakbruneimedia]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 29 Mar 2016 00:19:55 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>anakbrunei media (ABm) is a next-generation media and publishing virtual company founded by Reeda Malik, or better known as anakbrunei.
+
+image
+
+ABm provides new-media services for companies locally and abroad that are interested to embark on a social-media marketing journey. </p>]]></description>
+            <link>undefinedanakbrunei-media-abm-is-a-next-generation-media-and-publis/index.html</link>
+            <guid isPermaLink="false">d3f24df9-5d90-442e-b02d-fa2cb831c6fd</guid>
+            <pubDate>Tue, 29 Mar 2016 00:19:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
