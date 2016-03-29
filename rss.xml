@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[anakbruneimedia]]></title>
         <description><![CDATA[anakbruneimedia]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/anakbruneimedia/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 29 Mar 2016 00:19:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 29 Mar 2016 01:57:11 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/anakbruneimedia/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[So You Want To Write A Digital Strategy? - Smashing Magazine]]></title>
+            <description><![CDATA[<article><h1>So You Want To Write A Digital Strategy? - Smashing Magazine</h1><p>"Can you put together a digital strategy for us to review?" Requests like this strike fear into those of us who work on the Web. What do we know about putting together strategy documents? Yes, we understand the Web, but we don't know how to write a document that is essentially a business strategy.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/e8971e85a9dd1c3eb27d12950780a6ee6376cc79.jpg"></article>]]></description>
+            <link>https://www.smashingmagazine.com/2013/07/you-want-to-write-a-digital-strategy/</link>
+            <guid isPermaLink="false">fb895f41-e273-4b69-8eb9-62eb0502e635</guid>
+            <pubDate>Tue, 29 Mar 2016 01:57:10 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>anakbrunei media (ABm) is a next-generation media and publishing virtual company founded by Reeda Malik, or better known as anakbrunei.
@@ -13,7 +20,7 @@
 image
 
 ABm provides new-media services for companies locally and abroad that are interested to embark on a social-media marketing journey. </p>]]></description>
-            <link>undefinedanakbrunei-media-abm-is-a-next-generation-media-and-publis/index.html</link>
+            <link>https://thegrid.ai/anakbruneimedia/anakbrunei-media-abm-is-a-next-generation-media-and-publis/index.html</link>
             <guid isPermaLink="false">d3f24df9-5d90-442e-b02d-fa2cb831c6fd</guid>
             <pubDate>Tue, 29 Mar 2016 00:19:55 GMT</pubDate>
         </item>
